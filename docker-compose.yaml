@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+      - "6080:6080"
+    volumes:
+      - .:/app
+    restart: always
