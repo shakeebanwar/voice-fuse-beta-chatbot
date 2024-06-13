@@ -1,4 +1,4 @@
-NGROK_HTTPS_URL = "https://d924-27-96-94-68.ngrok-free.app"
+NGROK_HTTPS_URL = "https://llmapi.voicefuse.xyz"
 WEBSOCKET_SUBDOMAIN = NGROK_HTTPS_URL.replace("https://", "")
 TWILIO_NUM = "+18773555998"
 ACCOUNT_SID=  "AC4a092d7a6e1c689241b05d6bd45f72ad"
